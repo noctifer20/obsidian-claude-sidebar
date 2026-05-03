@@ -11,9 +11,9 @@ Built by [Derek Larson](https://dtlarson.com) - [Pair with commands →](https:/
 - **Auto-launches Claude** - Claude Code starts automatically
 - **Multiple tabs** - Run multiple Claude instances side by side
 - **Embedded Claude** - Full terminal with Claude in your Obsidian sidebar
-- **Folder context menu** - Right-click any folder to open Claude in that directory
+- **Folder & file context menu** - Right-click any folder to open Claude in that directory, or a file to send path to Claude
 - **YOLO mode** - Launch Claude with `--dangerously-skip-permissions` via right-click menus
-- **Multi-backend** - Switch between Claude Code, Codex, OpenCode, Gemini CLI, Kimi Code, GitHub Copilot CLI, and Pi in settings, or via the **Switch CLI provider…** command palette quick switcher
+- **Multi-backend** - Switch between Claude Code, Codex, OpenCode, Gemini, Kimi Code, GitHub Copilot, and Pi in settings, or via **Switch CLI provider…** in the command palette
 
 ## Requirements
 
