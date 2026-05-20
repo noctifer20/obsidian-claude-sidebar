@@ -6757,7 +6757,7 @@ var CLI_BACKENDS = {
   },
   cursor: {
     label: "Cursor Agent",
-    binary: "agent",
+    binary: "cursor-agent",
     pathHints: ["~/.local/bin"],
     yoloFlag: "--yolo",
     resumeFlag: "--continue",
